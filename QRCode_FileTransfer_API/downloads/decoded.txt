@@ -1,0 +1,22 @@
+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
+
+ 
+
+Urban planning for the region around (18.87477, -101.44576):
+
+1. Unknown: With an initial area of 5659.5 square meters, a final area of 1868.5 square meters, and a percentage of -66.98471596430781, the unknown should be reduced to allow for more efficient urban planning.
+
+2. Water: With an initial area of 127.5 square meters, a final area of 20.0 square meters, and a percentage of -84.31372549019608, the water should be reduced to allow for more efficient urban planning.
+
+3. Grass: With an initial area of 18498.5 square meters, a final area of 53233.25 square meters, and a percentage of 187.77063005108522, the grass should be increased to provide more green spaces for the region.
+
+4. Trees: With an initial area of 93117.25 square meters, a final area of 69444.25 square meters, and a percentage of -25.422786862799317, the trees should be increased to provide more green spaces for the region.
+
+5. Pavement: With an initial area of 24218.75 square meters, a final area of 17385.75 square meters, and a percentage of -28.213677419354838, the pavement should be reduced to allow for more efficient urban planning.
+
+6. Buildings: With an initial area of 110093.75 square meters, a final area of 116801.5 square meters, and a percentage of 6.09276185069543, the buildings should be increased to provide more housing and commercial spaces for the region.
+
+7. Roads: With an initial area of 10428.75 square meters, a final area of 3372.75 square meters, and a percentage of -67.65911542610571, the roads should be reduced to allow for more efficient urban planning.
+
+
+
