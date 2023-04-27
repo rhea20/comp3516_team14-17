@@ -34,7 +34,7 @@ flask run
 
 ### Paths
 
-http://127.0.0.1:5000 : For uploading a file on the senders' to be encoded into QR code(s)
+http://127.0.0.1:5000 : For uploading a file on the senders' end to be encoded into QR code(s)
 http://127.0.0.1:5000/scanner : For uploading QR code(s) to be decoded and reconstruct the file on the receivers' end
 
 Note: Please remove the files with the 'encoded_image' prefix from the 'sender' directory every time you test out with a new image file
